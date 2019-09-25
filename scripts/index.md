@@ -2,6 +2,7 @@
 id: 254
 title: Scripts
 has_children: true
+nav_order: 5
 layout: post
 categories:
   - Scripts

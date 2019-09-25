@@ -3,7 +3,7 @@ id: 9
 title: An Introduction To Unity For Smart People
 author: unity
 layout: default
-nav_order: 1
+nav_order: 0
 ---
 Hello! This site is designed to be a resource to help you as you teach yourself [Unity](https://unity3d.com).
 
