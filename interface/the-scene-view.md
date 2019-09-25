@@ -31,7 +31,7 @@ To the top right of the gizmo is a small lock icon that can be easy to accidentl
 
 ![Scene View Rotation Lock](images/SceneViewRotationLock.PNG)
 
-The gizmo that lets you rotate the scene will be greyed out.
+The gizmo that lets you rotate the scene will be grayed out.
 
 ## Unity Official video on the Scene View
 
