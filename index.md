@@ -1,13 +1,8 @@
 ---
 id: 9
 title: An Introduction To Unity For Smart People
-date: 2019-01-17T21:55:24+00:00
 author: unity
-excerpt: |
-layout: page
-guid: http://54.198.102.119/?page_id=9
-simplefavorites_count:
-  - "0"
+layout: default
 ---
 Hello! This site is designed to be a resource to help you as you teach yourself [Unity](https://unity3d.com).
 
