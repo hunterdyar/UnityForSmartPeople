@@ -11,12 +11,11 @@ simplefavorites_count:
 ---
 Hello! This site is designed to be a resource to help you as you teach yourself [Unity](https://unity3d.com).
 
-If you know nothing about unity, you&#8217;ll want to start somewhere:
+If you know nothing about unity, you'll want to start somewhere:
 
-  * [Unity Building Blocks](http://unity.hdyar.com/2019/01/17/unity-building-blocks/)
-  * [Unity Fundamentals](http://unity.hdyar.com/fundamentals/)
-  * [Learning the Unity Interface](http://unity.hdyar.com/the-unity-interface/)
-
+  * [Unity Building Blocks](_posts/unity-building-blocks.md)
+  * [Unity Fundamentals](fundamentals.md)
+  * [Learning the Unity Interface](the-unity-interface.md)
 This site is designed for you to guide yourself. You are here to teach yourself unity! Yay. Start with an overview of topics then dive in deep to the extent that you are comfortable or curious about.
 
 #### Notes On Pedagogy:

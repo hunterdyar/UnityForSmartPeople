@@ -5,7 +5,6 @@ date: 2019-01-18T18:49:25+00:00
 author: unity
 excerpt: |
 layout: post
-guid: http://54.198.102.119/?p=133
 permalink: /interface/interface-overview/
 categories:
   - Interface
