@@ -1,14 +1,9 @@
 ---
 id: 106
 title: What are Assets?
-date: 2019-01-18T07:38:27+00:00
-author: unity
-excerpt: |
+parent: Fundamentals
 layout: post
-guid: http://unity.hdyar.com/?p=106
-permalink: /fundamentals/what-are-assets/
-simplefavorites_count:
-  - "0"
+
 categories:
   - Building Blocks
   - Fundamentals

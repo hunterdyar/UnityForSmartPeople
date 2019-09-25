@@ -1,12 +1,8 @@
 ---
 id: 101
 title: What Are Components?
-date: 2019-01-18T07:15:12+00:00
-author: unity
-excerpt: |
+parent: Fundamentals
 layout: post
-guid: http://unity.hdyar.com/?p=101
-permalink: /fundamentals/what-are-components/
 categories:
   - Fundamentals
 ---

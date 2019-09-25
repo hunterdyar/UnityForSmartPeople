@@ -1,14 +1,8 @@
 ---
 id: 96
 title: What Are GameObjects?
-date: 2019-01-18T06:40:29+00:00
-author: unity
-excerpt: |
+parent: Fundamentals
 layout: post
-guid: http://unity.hdyar.com/?p=96
-permalink: /fundamentals/what-are-gameobjects/
-simplefavorites_count:
-  - "1"
 categories:
   - Building Blocks
   - Fundamentals

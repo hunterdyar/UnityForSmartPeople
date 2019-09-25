@@ -1,14 +1,8 @@
 ---
 id: 47
 title: What Are Unity Scenes?
-date: 2019-01-17T23:12:56+00:00
-author: unity
-excerpt: |
+parent: Fundamentals
 layout: post
-guid: http://unity.hdyar.com/?p=47
-permalink: /fundamentals/what-are-unity-scenes/
-simplefavorites_count:
-  - "0"
 categories:
   - Building Blocks
   - Fundamentals

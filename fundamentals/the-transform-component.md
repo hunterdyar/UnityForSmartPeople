@@ -1,12 +1,9 @@
 ---
 id: 152
 title: The Transform Component
-date: 2019-01-18T19:43:54+00:00
-author: unity
-excerpt: |
+parent: Fundamentals
 layout: post
-guid: http://unity.hdyar.com/?p=152
-permalink: /fundamentals/the-transform-component/
+
 categories:
   - Common Components
   - Fundamentals

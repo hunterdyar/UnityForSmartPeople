@@ -1,12 +1,8 @@
 ---
 id: 141
 title: Camera Component
-date: 2019-01-18T19:29:18+00:00
-author: unity
-excerpt: |
+parent: Fundamentals
 layout: post
-guid: http://unity.hdyar.com/?p=141
-permalink: /fundamentals/camera-component/
 categories:
   - Common Components
   - Fundamentals
