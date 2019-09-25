@@ -1,11 +1,8 @@
 ---
 id: 69
-title: The Unity Interface
-date: 2019-01-18T00:01:16+00:00
-author: unity
-excerpt: |
+title: The Interface
+has_children: true
 layout: page
-guid: http://unity.hdyar.com/?page_id=69
 ---
 The Unity Interface can be daunting. 
 

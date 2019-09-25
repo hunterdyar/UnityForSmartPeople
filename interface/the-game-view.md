@@ -1,7 +1,7 @@
 ---
 id: 136
 title: The Game View
-parent: The Unity Interface
+parent: The Interface
 layout: default
 categories:
   - Interface

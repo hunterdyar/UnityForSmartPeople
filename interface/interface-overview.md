@@ -1,12 +1,11 @@
 ---
 id: 133
 title: Interface Overview
-parent: The Unity Interface
+parent: The Interface
 layout: default
 categories:
   - Interface
 ---
- 
 
 [This page](https://docs.unity3d.com/Manual/LearningtheInterface.html) in the official unity manual has a good overview of the interface.
 

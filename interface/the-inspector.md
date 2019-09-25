@@ -1,7 +1,7 @@
 ---
 id: 66
 title: The Inspector Window
-parent: The Unity Interface
+parent: The Interface
 layout: default
 categories:
   - Interface

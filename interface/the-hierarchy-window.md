@@ -1,7 +1,7 @@
 ---
 id: 138
 title: The Hierarchy Window
-parent: The Unity Interface
+parent: The Interface
 layout: default
 categories:
   - Interface

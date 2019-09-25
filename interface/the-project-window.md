@@ -1,7 +1,7 @@
 ---
 id: 115
 title: The Project Window
-parent: The Unity Interface
+parent: The Interface
 layout: default
 categories:
   - Interface
