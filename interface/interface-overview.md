@@ -13,34 +13,23 @@ Up top, we have the [toolbar](https://docs.unity3d.com/Manual/Toolbar.html) and 
 
 We also have total control over how we can [customize our workspace](https://docs.unity3d.com/Manual/CustomizingYourWorkspace.html).
 
-Unity supports a large number of [keyboard shortcuts](https://docs.unity3d.com/Manual/UnityHotkeys.html)<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Unity supports a large number of [keyboard shortcuts](https://docs.unity3d.com/Manual/UnityHotkeys.html)
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7v2pjke5sc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Main Windows
 
 Once you have a basic understanding of Unity&#8217;s layout, move on to learning about the five main windows:
 
-<ul class="lcp_catlist" id="lcp_instance_0">
-  <li >
-    <a href="http://unity.hdyar.com/interface/the-hierarchy-window/" title="The Hierarchy Window">The Hierarchy Window</a>
-  </li>
-  <li >
-    <a href="http://unity.hdyar.com/interface/the-game-view/" title="The Game View">The Game View</a>
-  </li>
-  <li >
-    <a href="http://unity.hdyar.com/interface/the-project-window/" title="The Project Window">The Project Window</a>
-  </li>
-  <li >
-    <a href="http://unity.hdyar.com/interface/the-scene-view/" title="The Scene View">The Scene View</a>
-  </li>
-  <li >
-    <a href="http://unity.hdyar.com/interface/the-inspector/" title="The Inspector Window">The Inspector Window</a>
-  </li>
-</ul>
+### The Main Windows
 
-## Customizing Unity&#8217;s Layout<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+- [The Hierarchy Window](the-hierarchy-window.md)
+- [The Game View](the-game-view.md)
+- [The Project Window](the-project-window.md)
+- [The Scene View](the-scene-view.md)
+- [The Inspector Window](the-inspector.md)
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+
+## Customizing Unity&#8217;s Layout
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bl6uisr5_bQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

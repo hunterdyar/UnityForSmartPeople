@@ -16,7 +16,6 @@ It&#8217;s very important to know that while the game is running, any changes we
 
 Players playing the game are also making changes to properties (like the position of a main character), and it would be really annoying if we had to move them back to the start of a level after every time we tested it. 
 
-Every beginner will start adjusting settings and forget that Unity is &#8220;in play mode&#8221; (running the game), and then they will lose their changes. It happens to all of us. One way to help prevent this is with a play mode overlay tint.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Every beginner will start adjusting settings and forget that Unity is &#8220;in play mode&#8221; (running the game), and then they will lose their changes. It happens to all of us. One way to help prevent this is with a play mode overlay tint.
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+<iframe width="2543" height="1157" src="https://www.youtube.com/embed/w7RLUM9TBXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
