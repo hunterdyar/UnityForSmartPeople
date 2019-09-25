@@ -1,12 +1,8 @@
 ---
 id: 219
 title: Programming, Back To Basics
-date: 2019-02-11T05:19:36+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://unity.hdyar.com/?p=219
-permalink: /fundamentals/scripting-basics/programming-back-to-basics/
+parent: Scripting Basics
+layout: default
 categories:
   - Scripting Basics
 ---

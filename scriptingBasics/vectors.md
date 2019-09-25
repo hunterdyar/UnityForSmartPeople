@@ -1,12 +1,8 @@
 ---
 id: 239
 title: Vectors
-date: 2019-02-14T17:10:45+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://unity.hdyar.com/?p=239
-permalink: /fundamentals/vectors/
+parent: Scripting Basics
+layout: default
 categories:
   - Fundamentals
   - Scripting Basics

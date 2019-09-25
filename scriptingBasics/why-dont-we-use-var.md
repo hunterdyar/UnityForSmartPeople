@@ -1,11 +1,8 @@
 ---
 id: 266
 title: 'Why don&#8217;t we use &#8220;var&#8221; in C# and Unity?'
-date: 2019-09-24T14:23:03+00:00
-author: hdyar
+parent: Scripting Basics
 layout: post
-guid: http://unity.hdyar.com/?p=266
-permalink: /fundamentals/scripting-basics/why-dont-we-use-var/
 categories:
   - Scripting Basics
 ---

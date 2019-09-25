@@ -2,6 +2,7 @@
 title: Fundamentals
 layout: default
 has_children: true
+nav_order: 3
 ---
 After we have a brief overview of the [Interface](the-unity-interface.md), the most important thing to understanding Unity, and how a unity project works, is to understand the core components to a project. I am calling these core components [building blocks.](unity-building-blocks.md)
 

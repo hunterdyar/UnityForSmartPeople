@@ -1,8 +1,8 @@
 ---
 id: 158
-title: Scripts in Unity
+title: Scripting Basics
 layout: default
-guid: http://unity.hdyar.com/?p=158
+has_children: true
 categories:
   - Fundamentals
   - Scripting Basics
