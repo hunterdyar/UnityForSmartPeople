@@ -1,9 +1,7 @@
 ---
 id: 37
 title: Unity Building Blocks
-date: 2019-01-17T22:35:39+00:00
-author: unity
-layout: post
+layout: default
 categories:
   - Fundamentals
 tags:
@@ -11,10 +9,10 @@ tags:
 ---
 A Unity project is made up of four main things:
 
-  1. [Scenes](what-are-unity-scenes.md)
-  2. [GameObjects](what-are-gameobjects.md)
-  3. [Components](what-are-components.md)
-  4. [Assets](what-are-assets.md)
+  1. [Scenes](/fundamentals/what-are-unity-scenes.md)
+  2. [GameObjects](/fundamentals/what-are-gameobjects.md)
+  3. [Components](/fundamentals/what-are-components.md)
+  4. [Assets](/fundamentals/what-are-assets.md)
 
 Click on each for an introduction to each part, and read on to learn about how they all relate to each other.
 
@@ -22,20 +20,20 @@ It&#8217;s useful to understand the hierarchy here. A **project** is a collectio
 
 #### Scenes
 
-A [scene](what-are-unity-scenes.md) is a three dimensional environment. It&#8217;s a Cartesian coordinate System, 3D or 2D, depending on the game.
+A [scene](/fundamentals/what-are-unity-scenes.md) is a three dimensional environment. It&#8217;s a Cartesian coordinate System, 3D or 2D, depending on the game.
 
 #### GameObjects
 
-A [GameObject](what-are-gameobjects.md) is anything in the game. For an object to be in the game, it needs to be in the scene, and thus it has some location in space. The object might just be something that plays background music &#8211; it doesn&#8217;t always need to be visible, it will still technically exist in the scene somewhere. These sorts of &#8220;management&#8221; objects that one would think of as existing outside of the scene are, in Unity, just part of the scene. If you can&#8217;t see them and they don&#8217;t take up space for the physics system, then who cares?
+A [GameObject](/fundamentals/what-are-gameobjects.md) is anything in the game. For an object to be in the game, it needs to be in the scene, and thus it has some location in space. The object might just be something that plays background music &#8211; it doesn&#8217;t always need to be visible, it will still technically exist in the scene somewhere. These sorts of &#8220;management&#8221; objects that one would think of as existing outside of the scene are, in Unity, just part of the scene. If you can&#8217;t see them and they don&#8217;t take up space for the physics system, then who cares?
 
-Every GameObject has at least one component: The [Transform component](the-transform-component.md). The transform component stores the information of where they object is in 3D space. Because every object exists in the scene, they need the Transform component. You can&#8217;t delete it.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Every GameObject has at least one component: The [Transform component](/fundamentals/the-transform-component.md). The transform component stores the information of where they object is in 3D space. Because every object exists in the scene, they need the Transform component. You can&#8217;t delete it.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
 </div></figure> 
 
 #### Components
 
-A [component](what-are-components.md) is, in most cases, a behavior. Adding them to a GameObject makes the GameObject do something. You could add a Sprite Renderer component to a 2D project to make the gameObject appear in the scene as an image. Light components will create various types of light sources, and Camera components give the player a perspective with which to view the game from. 
+A [component](/fundamentals/what-are-components.md) is, in most cases, a behavior. Adding them to a GameObject makes the GameObject do something. You could add a Sprite Renderer component to a 2D project to make the gameObject appear in the scene as an image. Light components will create various types of light sources, and Camera components give the player a perspective with which to view the game from. 
 
 In order to see the 2 or 3 dimensional space full of stuff, we need a camera. A camera does what it does in real life. From a single point, it takes what is visible in front of it and projects it onto a 2 dimensional rectangle: the computer screen when we play the game. We could put the camera where the main player would be for a First Person game, behind some 3D model of the player for third-person games, or just leave it sticking out in space. Frankly, we can do whatever the hell we want with the camera. Sometimes I like attaching it to unexpected objects. 
 

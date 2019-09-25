@@ -1,17 +1,12 @@
 ---
 id: 136
 title: The Game View
-date: 2019-01-18T18:57:05+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://unity.hdyar.com/?p=136
-permalink: /interface/the-game-view/
+parent: The Unity Interface
+layout: default
 categories:
   - Interface
   - Main Windows
 ---
- 
 
 The game view is where we run our games. See the unity manual on the [Game View](https://docs.unity3d.com/Manual/GameView.html).
 

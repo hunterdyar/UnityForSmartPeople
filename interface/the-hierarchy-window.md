@@ -1,12 +1,8 @@
 ---
 id: 138
 title: The Hierarchy Window
-date: 2019-01-18T18:59:58+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://unity.hdyar.com/?p=138
-permalink: /interface/the-hierarchy-window/
+parent: The Unity Interface
+layout: default
 categories:
   - Interface
   - Main Windows

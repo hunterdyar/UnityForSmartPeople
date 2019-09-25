@@ -1,14 +1,8 @@
 ---
 id: 66
 title: The Inspector Window
-date: 2019-01-18T00:00:18+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://unity.hdyar.com/?p=66
-permalink: /interface/the-inspector/
-simplefavorites_count:
-  - "0"
+parent: The Unity Interface
+layout: default
 categories:
   - Interface
   - Main Windows

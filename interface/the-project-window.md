@@ -1,12 +1,8 @@
 ---
 id: 115
 title: The Project Window
-date: 2019-01-18T18:33:48+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://54.198.102.119/?p=115
-permalink: /interface/the-project-window/
+parent: The Unity Interface
+layout: default
 categories:
   - Interface
   - Main Windows

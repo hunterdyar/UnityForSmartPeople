@@ -1,12 +1,8 @@
 ---
 id: 112
 title: The Scene View
-date: 2019-01-18T18:20:49+00:00
-author: unity
-excerpt: |
-layout: post
-guid: http://54.198.102.119/?p=112
-permalink: /interface/the-scene-view/
+parent: The Unity Interface
+layout: default
 categories:
   - Interface
   - Main Windows

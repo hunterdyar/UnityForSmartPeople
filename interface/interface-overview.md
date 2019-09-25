@@ -1,11 +1,8 @@
 ---
 id: 133
 title: Interface Overview
-date: 2019-01-18T18:49:25+00:00
-author: unity
-excerpt: |
-layout: post
-permalink: /interface/interface-overview/
+parent: The Unity Interface
+layout: default
 categories:
   - Interface
 ---
