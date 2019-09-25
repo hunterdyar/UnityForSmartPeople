@@ -20,6 +20,8 @@ Scripts are just text files. They are [assets](../fundamentals/what-are-assets.m
 
 We almost always need to write our own scripts in order to create games &#8211; you can&#8217;t get by without them, but we don't often need all that much complexity, and frequently can avoid doing advanced things.
 
+<iframe width="500" height="281" src="https://www.youtube.com/embed/YvA1O7MYs_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## C# vs. JavaScript vs. UnityScript
 
 Q: Which should you use?  
@@ -28,3 +30,7 @@ A: C#.
 Do you already know javascript? **use c# anyway.** Because I said so.
 
 Unity doesn&#8217;t support [UnityScript](https://blogs.unity3d.com/2017/08/11/unityscripts-long-ride-off-into-the-sunset/) anymore, and if you see that term it means you are looking at something out of date. Ignore it completely.
+
+## Syntax
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/xtvPpR0YdQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

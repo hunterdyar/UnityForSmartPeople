@@ -18,4 +18,4 @@ Players playing the game are also making changes to properties (like the positio
 
 Every beginner will start adjusting settings and forget that Unity is &#8220;in play mode&#8221; (running the game), and then they will lose their changes. It happens to all of us. One way to help prevent this is with a play mode overlay tint.
 
-<iframe width="2543" height="1157" src="https://www.youtube.com/embed/w7RLUM9TBXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7RLUM9TBXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

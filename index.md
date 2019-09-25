@@ -12,9 +12,11 @@ If you know nothing about unity, you'll want to start somewhere:
   * [Unity Building Blocks](unity-building-blocks.md)
   * [Unity Fundamentals](/fundamentals)
   * [Learning the Unity Interface](/interface)
+
+
 This site is designed for you to guide yourself. You are here to teach yourself unity! Yay. Start with an overview of topics then dive in deep to the extent that you are comfortable or curious about.
 
-#### Notes On Pedagogy:
+### Notes On Pedagogy:
 
 This is not a follow-along project site/guide. There is no &#8220;how to do _specific xyz&#8221; _here. Such an approach can be helpful, but I find it better to start with an overview and &#8220;scrap&#8221; projects to explore tools, before using those tools for something where you have a more focused objective.  It can be helpful (ie: musicians can derive fundamentals and techniques from learning specific songs) but with Unity, it isn&#8217;t a pedagogy I recommend starting with. Later, going through such guides or dissecting others&#8217; projects is a great way to learn techniques and project structure.
 
