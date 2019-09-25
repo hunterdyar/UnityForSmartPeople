@@ -1,11 +1,8 @@
 ---
 id: 256
 title: Clicking on Objects
-date: 2019-07-17T22:06:50+00:00
-author: hdyar
+parent: Scripts
 layout: post
-guid: http://unity.hdyar.com/?p=256
-permalink: /scripts/clicking-on-objects-in-3d/
 categories:
   - Scripts
 ---

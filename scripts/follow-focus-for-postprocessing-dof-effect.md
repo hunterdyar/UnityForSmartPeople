@@ -1,11 +1,8 @@
 ---
 id: 254
 title: Follow Focus for PostProcessing DOF effect
-date: 2019-03-14T04:55:15+00:00
-author: hdyar
+parent: Scripts
 layout: post
-guid: http://unity.hdyar.com/?p=254
-permalink: /scripts/follow-focus-for-postprocessing-dof-effect/
 categories:
   - Scripts
 ---
