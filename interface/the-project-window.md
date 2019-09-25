@@ -17,4 +17,4 @@ See all of the keyboard shortcuts that the project window supports on [this page
 
 You can right click on the project window and select &#8220;Show In Explorer&#8221; or &#8220;Show In Finder&#8221;
 
-<iframe width="2543" height="1157" src="https://www.youtube.com/embed/4iT4Zhez-zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4iT4Zhez-zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
