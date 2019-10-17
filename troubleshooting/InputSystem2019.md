@@ -37,7 +37,7 @@ In the PlayerInput component, we have options to set a default control scheme an
 
 With default map set to "`<None/>`", our input debugger looks like this.
 
-![Image of Disabled Actions](images/disableActions.png)
+![Image of Disabled Actions](images/disableActions.PNG)
 
 So we just give it a default action so it will enable those when the PlayerInput component is initiated (ie: on awake).
 
@@ -53,11 +53,11 @@ We can also fix this with a script that does something like this:
 
 Look in the Input Debugger. Under the current User, does their control scheme list a number of devices, or is does it show an empty set of parenthesis?
 
-![Image with no controls listed](images/controlsNo.png)
+![Image with no controls listed](images/controlsNo.PNG)
 
 compare that image to this one:
 
-![Image with controls listed](images/controlsYes.png)
+![Image with controls listed](images/controlsYes.PNG)
 
 In the Input Actions window, we can go to "edit control scheme" by selecting a control scheme in the top left of the window, then selecting that same drop-down again. Make sure the control scheme has some devices.
 
