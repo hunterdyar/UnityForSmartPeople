@@ -20,7 +20,7 @@ They have not-very helpful tutorial:
 
 and a much more helpful talk that introduces the system.
 
-<iframe width="2543" height="1120" src="https://www.youtube.com/embed/hw3Gk5PoZ6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hw3Gk5PoZ6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Checklist for Input not showing up.
 
