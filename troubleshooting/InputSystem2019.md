@@ -35,7 +35,7 @@ Click Save, or check auto-save.
 ### PlayerInput component won't automatically enable actions without a default map
 In the PlayerInput component, we have options to set a default control scheme and a default map. If we don't select a default map, the actions will won't automatically get enabled in the debugger.
 
-With default map set to "`<None/>`", our input debugger looks like this.
+With default map set to "`<None>`", our input debugger looks like this.
 
 ![Image of Disabled Actions](images/disableActions.PNG)
 
@@ -67,9 +67,16 @@ Be sure there are devices in these options.
 
 ![Control Scheme Devices](images/editControlScheme.png)
 
-### For VR Development, make sure you don't have a menu up.
-This one got me because the headset still passed position and tracking data to Unity, so I thought things were fine. The device was recognized, etc etc. Sadly, no. Button input being blocked because I had to set up the guardian, or whatever.
-
 ### Check what controllers are used in the action map
 There are some devices that, when we add them to an action, look correct. They aren't.
+
+## XR-Specific Troubleshooting
+
+### Make sure you don't have a menu up.
+This one got me because the headset still passed position and tracking data to Unity, so I thought things were fine. The device was recognized, etc etc. Sadly, no. Button input being blocked because I had to set up the guardian, or whatever.
+
+### Remove OVR Headset Emulator from OVRCamera Rig
+The OVR HEadset Emulator in the Oculus Integration uses the old headset system. Just removing the component is fine.
+
+
 
