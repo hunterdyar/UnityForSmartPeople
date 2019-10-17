@@ -35,17 +35,19 @@ Click Save, or check auto-save.
 ### PlayerInput component won't automatically enable actions without a default map
 In the PlayerInput component, we have options to set a default control scheme and a default map. If we don't select a default map, the actions will won't automatically get enabled in the debugger.
 
-With default map set to "<None>", our input debugger looks like this.
+With default map set to "`<None/>`", our input debugger looks like this.
 
-![Disabled Actions](images/disableActions.png)
+![Image of Disabled Actions](images/disableActions.png)
 
 So we just give it a default action so it will enable those when the PlayerInput component is initiated (ie: on awake).
 
 We can also fix this with a script that does something like this:
 
-using UnityEngine.InputSystem; //at the top of the file
-...
-GetComponent<PlayerInput>().actions.Enable();//inside Start or Awake
+`using UnityEngine.InputSystem; //at the top of the file`  
+
+...  
+
+`GetComponent<PlayerInput>().actions.Enable();//inside Start or Awake`
 
 ### Control Schemes need devices assigned to them
 
