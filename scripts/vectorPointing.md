@@ -10,7 +10,7 @@ It is very often useful to find a Vector that points from one object in space to
 
 For example, if we wanted to have a top-down 2D game where the player faces the mouse position, we would need to get the vector that points from the player to the world-space position of the mouse.
 
-The answer is easier than you may think: We subtract positions in space to get the Vector.
+The answer is easier than you may think: we subtract positions in space to get the Vector.
 
 ```
 // A vector that points from an origin position (Vector3) to the target position (Vector3).

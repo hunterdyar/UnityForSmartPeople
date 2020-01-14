@@ -52,7 +52,7 @@ Last time I used it, it was to run a GameObject.FindObjectOfType on the property
 [TextArea] lets a string be edited more like a text field. Multiple lines, and a scrollbar! Nice. [Multline] Forces a string to give us multiple lines, even if the text doesn't fill it. Useful!
 
 ## Range Attribute
-Have a float or an int that should only be in a certian range? Give it a [Range(min,max)] attribute! Now the variable will show up as a *slider* in the inspector, instead of as a text entry box.
+Have a float or an int that should only be in a certain range? Give it a [Range(min,max)] attribute! Now the variable will show up as a *slider* in the inspector, instead of as a text entry box.
 
 ## Selection Base
 I always forget about this one. This is an attribute that we apply to a class, not a property or method. [SelectionBase] means that if we click on the gameObject that has a component with this class (I sometimes make an empty component that is just this), it will select this object's parent instead.
