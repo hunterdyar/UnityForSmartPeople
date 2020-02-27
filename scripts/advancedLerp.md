@@ -1,6 +1,6 @@
 ---
 id: 257
-title: Simple Lerp with Coroutines
+title: Advanced Lerp with Coroutines
 parent: Scripts
 layout: post
 categories:
