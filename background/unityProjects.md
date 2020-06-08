@@ -6,6 +6,10 @@ layout: post
 
 ---
 
+The following is also covered in this video overview.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Omask191WxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # About Unity Projects
 Unity projects are not single large files, like photoshop documents or pdfs. Instead they are folders. Inside of the folder contains all of the information that makes up the game. Some of these things are assets that are directly used, like 3D models, images, and sound files. A Unity Project is all contained in a single folder. 
 
